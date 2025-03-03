@@ -85,9 +85,6 @@ client-performance-analysis/
 - Incorporate time-series analysis
 - Develop predictive models for client performance
 
-## License
-[Choose an appropriate license, e.g., MIT License]
-
 ## Contact
 Jill Balderson
 JBalderson-AI
