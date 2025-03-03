@@ -9,12 +9,14 @@ This project provides a comprehensive analysis of client performance using panda
 - Analyze total units, revenue, shipping, and profit
 
 ## Key Findings
-The analysis of the top 5 clients revealed:
-- Significant variation in client performance
-- Top performer (Kendra Garrett) stood out with:
-  - 239,862 total units
-  - $82.27 million in revenue
-  - $36.58 million in profit
+The analysis reveals the top 5 clients by quantity and financial performance. Kendra Garrett stands out as the top performer, with 239,862 total units, $82.27 million in revenue, and $36.58 million in profit, significantly outpacing the other four clients in both volume and financial metrics. While the other four clients have more modest numbers, ranging from 43,018 to 75,768 total units and between $8.38 million to $12.91 million in revenue, they demonstrate consistent contribution to the business's overall performance.
+
+## Additional Findings
+ - The 3 categories with the most entries are: Consumables, furniture, and software
+ - Within Consumables, the subcategory with the most entries is bathroom supplies
+ - The 5 clients with the most entries in the data are: Jessica Reyes, Angela Everett, Bryan Meyers, Kendra Garett, and Alexandra Young
+ - Jessica Reyes (the client eith the most entries) ordered 64,313 units, though Kendra Garett was (by far) the top contributor to sales and profit
+
 
 ## Data Preparation and Analysis Steps
 1. Load and prepare the dataset
